@@ -1,4 +1,8 @@
 # XIB_for_Ipad
+
+- An XiB represents an only scene.
+- a storyboar represents multiple views, scenes and how to navigate between them.
+
 How to generate and xib for ipad according to the last application I have been working on
 
 The key to do this is to change the property size to Freeform, look at this:
